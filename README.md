@@ -1,6 +1,2 @@
-# movierecommendation
-This code includes below parts:
--Web Scrapping from IMDB site \n
--Data Processing & Visualization \n
--Movive Recommendation \n
--Tkinter
+# movie recommendation
+This code includes : Web Scrapping from IMDB site, Data Processing & Visualization, Movive Recommendation and Tkinter.
